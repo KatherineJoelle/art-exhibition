@@ -79,8 +79,8 @@ export function create3Dartwork() {
 
   create3DArtworkEntity(
     "Parcel 57",
-    new Vector3(40, 73.5, 24),
-    new Vector3(2.5 * 1.4, 2.5 * 1.4, 2.5),
+    new Vector3(40, 73.5, 24), // Change position
+    new Vector3(3, 3, 3),      // Change scale
     resources.models.artwork.parcel57Art,
     resources.artistLinks.parcel57Link,
     resources.hoverText.parcel57Text,
