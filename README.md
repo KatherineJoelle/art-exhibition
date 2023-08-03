@@ -48,18 +48,16 @@ Run scene
   dcl start
 ```
 
-Deploy to Worlds (a DCL name)
+
+## Deployment
+
+To deploy this project to DCL Worlds (a DCL name) run
 
 ```bash
   dcl deploy --target-content https://worlds-content-server.decentraland.org
 ```
-## Deployment
 
-To deploy this project run
 
-```bash
-  npm run deploy
-```
 
 
 ## Features
