@@ -14,7 +14,8 @@ Created for MVAW23.
 
 ## Demo
 
-Insert gif or link to demo
+![art-exhibition-edge-uncle-ben](https://github.com/KatherineJoelle/art-exhibition/assets/53322457/6199d4ce-5297-4e93-9ff2-15d48e77e213)
+
 
 
 ## Run Locally
